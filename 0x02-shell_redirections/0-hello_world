@@ -1,3 +1,7 @@
 #!/bin/bash
+<<<<<<< HEAD
 echo "Hello, world"
 
+=======
+echo "Hello, World"
+>>>>>>> 6fe60f367f36d559cb572ba0015c552ebdc95617
